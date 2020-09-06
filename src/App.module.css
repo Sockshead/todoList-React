@@ -1,0 +1,15 @@
+body {
+	padding: 50px;
+	background-color: #66ccff;
+	font-family: sans-serif;
+}
+
+.title {
+	color: #0011ff;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: repeat(1, 100%);
+	justify-items: center;
+}
